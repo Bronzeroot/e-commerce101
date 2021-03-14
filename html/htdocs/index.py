@@ -20,6 +20,7 @@ print('''<!doctype html>
 <head>
   <title>LG display 성과급200%</title>
   <meta charset="utf-8">
+  <link type="text/css" rel="stylesheet" href="/styles.css" />
 </head>
 <body>
   <h1><a href="index.py">메인화면</a></h1>
